@@ -30,19 +30,19 @@ Jquery
 
 # Azure Technologies:Resources page,Static webapp,Azure Maps,Azure Bot:
 
-Azure Resources page:             
+## Azure Resources page:             
 ![Resources page](https://user-images.githubusercontent.com/118434385/209634412-1e140ceb-c6f9-4476-abd8-1a14919e1fd9.png)
 
-Azure Static Webapp:
+## Azure Static Webapp:
 ![static web app](https://user-images.githubusercontent.com/118434385/209634562-ca5edf9f-a349-42d2-8768-f1be2751df97.png)
 
-Azure Bot:
+## Azure Bot:
 ![bot page](https://user-images.githubusercontent.com/118434385/209634613-441ab5ea-32b5-4f07-87f1-2327e01615aa.png)
 
-Azure bot channels page:
+## Azure bot channels page:
 ![bot channels page](https://user-images.githubusercontent.com/118434385/209634681-834ce00e-4de6-4dba-8193-5278235557fb.png)
 
-Azure Test in Webchat:
+## Azure Test in Webchat:
 ![bot test in webchat](https://user-images.githubusercontent.com/118434385/209634787-778c6df0-0915-4f3c-9dde-cf0da4748b51.png)
 
 ![bot test in webchat1](https://user-images.githubusercontent.com/118434385/209634793-d159dadf-516c-47e7-b662-8edfcc837e87.png)
@@ -52,6 +52,16 @@ Azure Test in Webchat:
 ![bot test in webchat3](https://user-images.githubusercontent.com/118434385/209635203-3e11bd31-23f6-4ff9-b2a6-9e21046d60c9.png)
 
 ![bot test in webchat4](https://user-images.githubusercontent.com/118434385/209635216-c29f7a34-bb2f-450d-b2ea-c017141a417c.png)
+
+# Azure Maps:
+![azure map](https://user-images.githubusercontent.com/118434385/209636185-902ed52f-1a8f-4575-8c3f-fb0b7265765c.png)
+
+## Azure Map Client id:
+![azure map client id](https://user-images.githubusercontent.com/118434385/209636257-c64c2200-d598-48ab-b786-c9034ed76539.png)
+
+## Azure Map Primary Key:
+![azure map primary key](https://user-images.githubusercontent.com/118434385/209636339-5e30cacd-dd73-4a19-8c6b-34cd30088833.png)
+
 
 # Project ScreenShots:
 
